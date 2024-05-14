@@ -3,4 +3,4 @@
 
 With an easy-to-use API, SpamShield seamlessly integrates into any digital platform, be it comment sections, chat applications, or social media. Its versatility allows effortless implementation, ensuring a hassle-free experience for developers.
 
-**Say goodbye to spam-related nuisances with SpamShield—your reliable and adaptable shield against unwanted content across the digital landscape.**
+**Say goodbye to the spam-related nuisances with SpamShield—your reliable and adaptable shield against unwanted content across the digital landscape.**
